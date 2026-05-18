@@ -41,3 +41,6 @@ La base de datos permite almacenar información sobre frutas, verduras, hortaliz
 ## Autor
 
 Actividad académica - Curso Big Data
+Ermis Vivas Maldonado
+Código: 5032887
+Grupo:14
